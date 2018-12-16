@@ -40,7 +40,7 @@ public class DisplayTest {
 		Display.printEnterShot(1);
 
 		StringBuilder sb = new StringBuilder();
-		sb.append("\rEnter shot :");
+		sb.append("\nEnter shot: ");
 
 		assertTrue(out.toString().contains(sb));
 	}
@@ -67,9 +67,9 @@ public class DisplayTest {
 		Display.printScore(34);
 
 		StringBuilder sb = new StringBuilder();
-		sb.append("\rGame Score : ");
+		sb.append("\nGame Score : ");
 		sb.append(34);
-		sb.append("\rThank you for playing.");
+		sb.append("\nThank you for playing.");
 
 		assertTrue(out.toString().contains(sb));
 	}

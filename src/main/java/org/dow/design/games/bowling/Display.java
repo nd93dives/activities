@@ -22,27 +22,27 @@ public final class Display {
 	
 	public static void printEnterShot(int shot) {
 		StringBuilder sb = new StringBuilder();
-		sb.append("\rEnter shot :");
+		sb.append("\nEnter shot: ");
 		System.out.println(sb);
 		sb = null;
 	}
 
 	public static void printRetry() {
 		StringBuilder sb = new StringBuilder();
-		sb.append("\rPlease retry. Greater than 10 pins were entered.");
+		sb.append("\nPlease retry. Greater than 10 pins were entered.");
 		System.out.println(sb);
 		sb = null;
 	}
 	
 	public static void printIncomplete() {
-		System.out.print("Incomplete Game");
+		System.out.print("\nIncomplete Game");
 	}
 
 	public static void printScore(int sum) {
 		StringBuilder sb = new StringBuilder();
-		sb.append("\rGame Score : ");
+		sb.append("\nGame Score : ");
 		sb.append(sum);
-		sb.append("\rThank you for playing.");
+		sb.append("\nThank you for playing.");
 		System.out.print(sb);
 		sb = null;
 	}
