@@ -16,7 +16,7 @@ To execute:
 
 To use:
 
-      Enter a series of frames up to 10.
+      Enter a series of frames up to 10, 2 opportunities per frame. The 10th frame has 3 opportunities.
       Enter x or X for a strike. 
       Enter / for a spare.
       Enter 0-9 for each shot if it is not a strike or spare.
