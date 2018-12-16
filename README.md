@@ -3,7 +3,7 @@
 
 Enjoy Bowling!
 
-## Current version is 0.0.1-SNAPSHOT
+## Current Version is 0.0.1-SNAPSHOT
 ## System Requirements
       Java(TM) SE Runtime Environment (build 1.8.0_191-b12)
       Java HotSpot(TM) 64-Bit Server VM (build 25.191-b12, mixed mode)
