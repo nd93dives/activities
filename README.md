@@ -12,7 +12,7 @@ Enjoy Bowling!
 
 To execute:
 
-      java Bowling.jar
+      java bowling.jar
 
 To use:
 
